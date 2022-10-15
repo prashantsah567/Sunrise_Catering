@@ -1,7 +1,10 @@
 -----------Sunrise Catering-------------
-# It's a Java GUI application built using awt and swing for food order calculation
-# JPanel classes are used to organize the components 
-# JFrame is used to put all the panels together in a window and for handling events
+
+ -> It's a Java GUI application built using awt and swing for food order calculation
+ 
+ -> JPanel classes are used to organize the components 
+ 
+ -> JFrame is used to put all the panels together in a window and for handling events
 
 -----------Here is a quick demo-----------
 
